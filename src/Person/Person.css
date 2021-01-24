@@ -1,0 +1,14 @@
+.Person{
+    width:50%;
+    margin: 50px auto;
+    box-shadow: 0 5px 5px #0ff;
+    border: 2px solid #ffe;
+    padding: 20px;
+    text-align: center;
+}
+.hcolor{
+   color:red
+}
+.hstyle{
+    font-weight:bold;
+}
